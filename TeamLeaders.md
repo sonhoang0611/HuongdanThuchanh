@@ -5,7 +5,7 @@ Mã_Tên nhóm |  MSSV | Họ tên | email |  tài khoản github
 T1_ThePlumper |1312506 |Lê Minh Tâm | | 
 T2_hero |1312325 |Lê Văn Linh | | 
 T3_BLIZT |1312006 |Nguyễn Hoài Anh |nguyenh.hanhk13@gmail.com |Izker 
-L1_PowerOfPassion |1312023 |Nguyễn Phước Thiện Ân | | 
+L1_PowerOfPassion |1312023 |Nguyễn Phước Thiện Ân |nguyenan2195@yahoo.com |nguyenan1312023 
 L2_Freedom |1312157 |Cao Xuân Hà | | 
 L3_Hattrick |1312472 |Bùi Duy Quý | | 
 S1_5M |1312373 |Nguyễn Hoàng Nam | | 
