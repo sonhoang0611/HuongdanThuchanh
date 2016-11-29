@@ -10,7 +10,7 @@ L2_Freedom |1312157 |Cao Xuân Hà | |
 L3_Hattrick |1312472 |Bùi Duy Quý | | 
 S1_5M |1312373 |Nguyễn Hoàng Nam | nhn12.hoangnam@gmail.com| nhn12
 S2_OSS |1312655 |Đào Minh Tuấn | | 
-S3_MaxTeam |1312470 |Cao Văn Quyền | | 
+S3_MaxTeam |1312470 |Cao Văn Quyền | doa9595@gmail.com| quyen91
 L4_TheEnd |??? |Nguyễn Quốc Đạt | | 
 
 
