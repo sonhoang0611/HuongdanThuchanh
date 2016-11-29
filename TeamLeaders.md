@@ -2,7 +2,7 @@
 
 Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub
 ----------- | ----- | ------ | ----- | -------------------
-T1_ThePlumper |1312506 |Lê Minh Tâm | | 
+T1_ThePlumper |1312506 |Lê Minh Tâm |leminhtamkhtn@gmail.com | lmtam 
 T2_hero |1312325 |Lê Văn Linh | | 
 T3_BLIZT |1312006 |Nguyễn Hoài Anh |nguyenh.hanhk13@gmail.com |Izker 
 L1_PowerOfPassion |1312023 |Nguyễn Phước Thiện Ân |nguyenan2195@yahoo.com |nguyenan1312023 
