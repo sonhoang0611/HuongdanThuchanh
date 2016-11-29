@@ -1,6 +1,6 @@
 # Danh sách các nhóm trưởng 
 
-Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản github
+Mã_Tên nhóm |  MSSV | Họ tên | email |  Tài khoản GitHub
 ----------- | ----- | ------ | ----- | -------------------
 T1_ThePlumper |1312506 |Lê Minh Tâm | | 
 T2_hero |1312325 |Lê Văn Linh | | 
